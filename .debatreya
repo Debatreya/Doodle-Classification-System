@@ -1,0 +1,23 @@
+{
+  "id": "doodle-classification-system",
+  "name": "Doodle Classification System",
+  "tagline": "Real-time hand-drawn doodle recognition with Next.js, FastAPI, and PyTorch.",
+  "description": "A real-time doodle classification project that recognizes hand-drawn sketches from a browser canvas and returns top predictions with confidence scores. The system combines a Next.js + TypeScript frontend with a FastAPI + PyTorch backend and supports 60 doodle classes.",
+  "techStack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "shadcn/ui",
+    "FastAPI",
+    "PyTorch",
+    "PIL",
+    "NumPy"
+  ],
+  "links": {
+    "github": "https://github.com/Debatreya/Doodle-Classification-System",
+    "demo": "https://doodle-classification-system.vercel.app/"
+  },
+  "featured": true,
+  "priority": 80,
+  "hasDeepDive": false
+}
